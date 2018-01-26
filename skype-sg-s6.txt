@@ -1,4 +1,4 @@
-Bitrate         Stutter Ratio   Class
+BitRate         FreezeRatio   Quality
 0.0	0.583698510079	1.0
 17.5511422898	0.332929598789	2.0
 39.3106767473	0.764107308048	0.0
