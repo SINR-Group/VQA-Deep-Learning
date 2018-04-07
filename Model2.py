@@ -38,7 +38,7 @@ videoFiles = [i for i in videoFiles if 'mos' not in i]
 
 def myGenerator():
     while True:
-        index_list = random.sample(range(1, 80), 3)
+        index_list = random.sample(range(1, 80), 2)
         alldata_x = []
         alldata_y = []
         for i in index_list:
