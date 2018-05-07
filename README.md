@@ -5,8 +5,9 @@ A Keras and Tensorflow implementation of video quality assessment using deep neu
 
 Network Architecture
 --------------------
+
 <p align="center">
-  <img src="assets/deep-arch.png" width="792" height="424" />
+  <img src="assets/deep-arch.png" width="640" height="400" />
 </p>
 
 Training
@@ -28,4 +29,5 @@ Prerequisites
 
 Authors
 -------
-Mallesham Dasari, Yang Qiu
+
+**Mallesham Dasari, Yang Qiu**
