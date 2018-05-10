@@ -30,4 +30,4 @@ Prerequisites
 Authors
 -------
 
-**Mallesham Dasari, Yang Qiu**
+**Mallesham Dasari, Pranjal Sahu, Yang Qiu**
