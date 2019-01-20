@@ -16,7 +16,7 @@ Training
 - We used video samples of 30 seconds each to train the model.
 - We first extract individual frames of the video from each video sample and create a numpy array out frames.
 - We create numpy array of MOS (i.e, video quality mean opinion score collected from users) that is corresponding to each sample.
-- We feed these frames of a video sample to CNNs followed by a series of LSTMs. 
+- We feed these frames of a video sample to CNNs followed by a series of Time Distributed LSTM. 
 - Finally, a softmax is used to classify the video sample quality.
 
 Prerequisites
